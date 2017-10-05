@@ -1,0 +1,28 @@
+h1{
+	color: green;
+	text-align: center;
+	font-size: 350%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+img {
+	height: 375px; width: 250px;
+	margin-left: 40%;
+}
+
+body{
+	background-image: url(http://s1.thingpic.com/images/nT/aHRf1fwQSj7fyzPK8BTK3p5q.png);
+	background-size: 1400px 1500px;
+	background-repeat: no-repeat;
+}
+
+
+
+#braves{
+	float: left;
+	margin-right: 10%;
+}
+
+h2{
+	color: green;
+}
